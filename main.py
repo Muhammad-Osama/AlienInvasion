@@ -22,5 +22,4 @@ def run_game():
         ship.update()
         gf.update_screen(ai_settings, screen, ship)
 
-
 run_game()
